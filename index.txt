@@ -1,0 +1,289 @@
+NUYsDZ!N - Raisul Hasan Rafi | Personal Portfolio
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# sidebar
+
+alt = Raisul
+Raisul Hasan Rafi
+Web developer
+
+Show Contacts
+
+Email
+raisulhasanrafi3032@gmail.com@example.com
+
+Phone
++880 1830-299003
+
+Birthday
+dec - 30, 2003
+
+Location
+Patuakhali, Barisal - BD
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# about
+
+About me
+
+I'm a Creative UI/UX Designer from Patuakhali, BD, with 4+ years of experience. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job/passion is to Design your Website's User Interface, so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use.
+My aim is to bring across your message and identity in the most creative way. I created web design and their ui design for many famous brand companies.
+
+DON'T BE SHY!
+Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+## service
+
+What i'm doing
+
+alt = design icon
+UI/UX Design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web Design
+High-quality design of sites at the professional level.
+
+alt = mobile app icon
+Mobile App UI Design
+Professional, the most modern and high-quality design of applications for iOS and Android.
+
+alt = camera icon
+Photos & Videography
+I make high-quality photos and videography of any category at a professional level.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Raisul was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Raisul was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Raisul was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Raisul was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# resume
+
+Resume
+
+Education
+
+Bachelor's (Honours)
+2021 — Present
+Patuakhali Govt. University Collage, Patuakhali, BD.
+Department of English Language & Literature.
+
+Higher School Certificate (HSC)
+2019 — 2020
+Amtali Govt. Collage, Amtali, Barishal, BD.
+Department of Humanities.
+
+Secondary School Certificate (SSC)
+2017 — 2018
+Khekuani Secondary School, Amtali, Barishal, BD
+Department of Science.
+
+Computer Office Application Course
+Jan-Jun (2022)
+Digital Technology Computer Training Center (DTC),
+Amtali, Barishal, BD (Institute Code: 2284)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+Experience
+
+UI/UX Designer
+2018 — Present
+I've been working at Fiver, UpWork, ThemeForest & Envato Market as a Junior UI/UX Designer.
+
+Web Designer
+2020 — Present
+I've been working at Fiver as a Front-End Web Designer.
+
+Photos & Videography
+2017 — 2022
+I worked as a Photos & Videographer at Pexels, Shutterstock, and Pixabay.
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+My skills
+
+Web Design
+80%
+UI/UX Web Design
+90%
+Mobile App UI/UX Design
+80%
+WordPress
+50%
+SEO
+70%
+Photos & Videography
+80%
+Gaming UI/HUD
+30%
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
